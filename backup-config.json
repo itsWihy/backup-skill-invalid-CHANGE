@@ -1,5 +1,5 @@
 {
   "server": "https://early-deduce-ebook.ngrok-free.dev:8787",
   "remote_path": "/home/.s*/",
-  "remote_port": 0
+  "remote_port": 8787
 }
